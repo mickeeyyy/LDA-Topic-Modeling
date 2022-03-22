@@ -1,1 +1,3 @@
 # LDA-Topic-Modeling
+
+Using NLTK and NLP, I took the dataset of more than 200,000 news articles from different news publishers such as New York Times, Breitbart, CNN, Business Insider, the Atlantic, Fox News, Talking Points Memo, Buzzfeed News, National Review, New York Post, the Guardian, NPR, Reuters, Vox, and the Washington Post to create a topic model where I clustered news articles into 20 unique topics. I did this by using Using Latent Dirichlet Allocation topic modeling to present topic-word distributions as well as document-topic distributions and later visualized the most popular topics among the news articles.
